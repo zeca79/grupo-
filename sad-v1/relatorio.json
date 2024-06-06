@@ -1,0 +1,24 @@
+{
+    "grupo": {
+        "nome": "grupo 13",
+        "alunos": [{"nome": "Marco Jose Pedro", "matricula": "20105254"}, 
+		   {"nome": "Vinicius de Campos Pereira", "matricula": "20103807"}]
+    },
+    "quartus": {
+        "os": "Windows 10",
+        "versao": "13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition",
+        "fpga": {
+            "familia": "Cyclone III",
+            "dispositivo": "EP3C5E144C7"
+        }
+    },
+    "utilizacao": {
+        "total combinational functions": 58,
+        "dedicated logic registers": 57,
+        "total pins": 41
+    },
+    "atraso": {
+        "Fmax": 206.1,
+	"unidade": "MHz"
+    }
+}
