@@ -1,0 +1,5 @@
+force /clk 0 0ns, 1 10ns, 0 20ns, 1 30ns, 0 40ns, 1 50ns, 0 60ns, 1 70ns, 0 80ns, 1 90ns, 0 100ns, 1 110ns, 0 120ns, 1 130ns, 0 140ns, 1 150ns, 0 160ns, 1 170ns, 0 180ns, 1 190ns, 0 200ns, 1 210ns, 0 220ns, 1 230ns, 0 240ns, 1 250ns, 0 260ns, 1 270ns, 0 280ns, 1 290ns, 0 300ns, 1 310ns, 0 320ns, 1 330ns, 0 340ns, 1 350ns, 0 360ns, 1 370ns, 0 380ns, 1 390ns, 0 400ns, 1 410ns, 0 420ns, 1 430ns, 0 440ns, 1 450ns, 0 460ns, 1 470ns, 0 480ns, 1 490ns, 0 500ns, 1 510ns, 0 520ns, 1 530ns, 0 540ns, 1 550ns, 0 560ns, 1 570ns, 0 580ns, 1 590ns, 0 600ns, 1 610ns, 0 620ns, 1 630ns, 0 640ns, 1 650ns, 0 660ns, 1 670ns, 0 680ns, 1 690ns, 0 700ns, 1 710ns, 0 720ns, 1 730ns, 0 740ns, 1 750ns, 0 760ns, 1 770ns, 0 780ns, 1 790ns, 0 800ns, 1 810ns, 0 820ns, 1 830ns, 0 840ns, 1 850ns, 0 860ns, 1 870ns, 0 880ns, 1 890ns, 0 900ns, 1 910ns, 0 920ns, 1 930ns, 0 940ns, 1 950ns, 0 960ns, 1 970ns, 0 980ns, 1 990ns, 0 1000ns -r 1000ns
+force /sample_can 00000001000000010000000100000001 0ns -r 1000ns
+force /sample_ori 00000000000000000000000000000000 0ns -r 1000ns
+force /enable 0 0ns, 1 10ns, 0 40ns -r 1000ns 
+force /reset 0 0ns -r 1000ns
