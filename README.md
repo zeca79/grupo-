@@ -51,7 +51,7 @@ onde a velocidade de cálculo é crucial.
 
 Após ser testada em simulação, a SAD V1 se comportou conforme o esperado. No entanto, é praticamente impossível verificar todas as combinações possíveis de entradas utilizando o **ModelSim** e um arquivo de **estimulus.do**. Apesar dessa limitação, todas as combinações testadas funcionaram corretamente.
 
-![](https://iili.io/JpMxOzb.md.png)
+![](https://iili.io/JpVNvsa.png)
 
 #### FSM
 
