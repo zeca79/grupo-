@@ -149,6 +149,6 @@ Neste relatório, realizamos o desenvolvimento, a descrição em VHDL e testes d
 
 A Versão 1 (V1) apresentou uma implementação sequencial, processando uma amostra por vez com barreiras de registradores na entrada e saída. A simulação demonstrou um funcionamento correto, validado por diferentes combinações de entrada, incluindo casos limite de matrizes zeradas e cheias.
 
-A Versão 3 (V3) visou aumentar o paralelismo ao processar quatro amostras por ciclo, permitindo uma execução mais rápida e eficiente para o mesmo conjunto de dados. A simulação demonstrou que o SAD V3 manteve a consistência nos resultados, validando a proposta de um design com maior throughput sem comprometer a precisão.
+A Versão 3 (V3) visou aumentar o paralelismo ao processar quatro amostras por ciclo, permitindo uma execução mais rápida e eficiente para o mesmo conjunto de dados. A simulação demonstrou que o SAD V3 manteve a consistência nos resultados, validando a proposta de um design que processa mais dados por ciclo de clock sem comprometer a precisão.
 
 Com base nos testes e na análise de temporização, ambas as versões atenderam às expectativas, cada uma com vantagens distintas em termos de desempenho. A SAD V1 é adequada para implementações onde a simplicidade e precisão são essenciais, enquanto a SAD V3 é mais eficiente em sistemas que exigem alto desempenho e maior velocidade de processamento.
